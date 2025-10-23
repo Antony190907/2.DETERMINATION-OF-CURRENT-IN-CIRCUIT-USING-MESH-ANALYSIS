@@ -35,7 +35,9 @@
 <img width="963" height="372" alt="Screenshot 2025-10-23 222127" src="https://github.com/user-attachments/assets/0e598223-c83d-4c1c-a7e4-73798aac023d" />
 
 **MARKS SPLITUP:**
-![Uploading Screenshot 2025-10-23 222220.png…]()
+
+<img width="1006" height="401" alt="Screenshot 2025-10-23 222220" src="https://github.com/user-attachments/assets/bb24536c-ef38-4808-af96-76f7044c84cf" />
+
 
 
 **PROCEDURE:** 
